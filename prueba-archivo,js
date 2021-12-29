@@ -1,0 +1,6 @@
+este archivo es de prueba por jorge morales 
+
+char = 2;
+
+if char = 2:
+      cin >> "hello world"
